@@ -16,11 +16,11 @@
 <a href="https://www.linkedin.com/in/kerlenmelo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## ⚡
+##
 <div>
   <a href="https://github.com/kerlenmelo">
   <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerlenmelo&layout=compact&langs_count=7&theme=dracula&hide_progress=true"/>
 </div>
-<div>
-  ![Snake animation](https://github.com/kerlenmelo/kerlenmelo/blob/output/github-contribution-grid-snake.svg)
-</div>
+    
+![Snake animation](https://github.com/kerlenmelo/kerlenmelo/blob/output/github-contribution-grid-snake.svg)
+
