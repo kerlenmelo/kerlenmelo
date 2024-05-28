@@ -19,7 +19,7 @@
 ## Stats
 <div>
   <a href="https://github.com/kerlenmelo">
-  <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerlenmelo&layout=compact&langs_count=7&theme=dracula&hide_progress=true"/>
+  <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerlenmelo&layout=compact&langs_count=7&theme=dracula&hide_progress=true"/>
 </div>
+    
 ![Snake animation](https://github.com/kerlenmelo/kerlenmelo/blob/output/github-contribution-grid-snake.svg)
-
