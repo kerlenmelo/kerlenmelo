@@ -20,21 +20,37 @@ Estudante de Análise e Desenvolvimento de Sistemas no **Instituto Federal de Pe
 
 ## Tecnologias e ferramentas
 
-**Foco atual**
+As tecnologias abaixo representam meu foco atual e conhecimentos adquiridos durante estudos e projetos acadêmicos, não necessariamente experiência profissional em todas elas.
 
-![ABAP](https://img.shields.io/badge/SAP_ABAP-0A6ED1?style=flat-square&logo=sap&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0A6ED1?style=flat-square&logo=sap&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### SAP e desenvolvimento ABAP — foco atual
 
-**Outras tecnologias estudadas**
+![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-0A6ED1?style=flat-square&logo=sap&logoColor=white)
+![SAP GUI](https://img.shields.io/badge/SAP_GUI-0A6ED1?style=flat-square&logo=sap&logoColor=white)
+![Open SQL](https://img.shields.io/badge/Open_SQL-4479A1?style=flat-square)
+![ALV / SALV](https://img.shields.io/badge/ALV_%2F_SALV-0A6ED1?style=flat-square)
+![ABAP Dictionary](https://img.shields.io/badge/ABAP_Dictionary-0A6ED1?style=flat-square)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+### Linguagens de programação estudadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Desenvolvimento web
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Testes, versionamento e ferramentas
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## Em desenvolvimento
 
@@ -52,12 +68,8 @@ Estou organizando meus exercícios e projetos práticos para disponibilizar impl
 
 <!-- Quando houver repositórios públicos publicados, substituir esta seção por links diretos e uma descrição objetiva de cada projeto. -->
 
-## Estatísticas
+## Linguagens e projetos no GitHub
 
-<div align="center">
+Os repositórios públicos e projetos documentados neste perfil demonstram minha evolução prática ao longo dos estudos. As tecnologias listadas acima não são calculadas automaticamente a partir dos repositórios.
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kerlenmelo&layout=compact&langs_count=6&theme=transparent&hide_border=true&hide_progress=true)
-
-</div>
-
-> **Nota:** as estatísticas refletem os repositórios analisados pelo serviço e não representam, isoladamente, meu nível de proficiência.
+<!-- O cartão de estatísticas foi removido porque o serviço público github-readme-stats pode apresentar indisponibilidade e exibir uma imagem quebrada. -->
